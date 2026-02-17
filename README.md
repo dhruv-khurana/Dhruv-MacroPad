@@ -1,2 +1,1 @@
-# MacroPas
-My adaptation of the HackPad!
+# My adaptation of the HackPad!
