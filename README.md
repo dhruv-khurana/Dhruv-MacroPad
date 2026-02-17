@@ -18,7 +18,7 @@ This is my adaptation of the blueprint hackpad by hackclub. I spent around 12 Ho
 **CAD Model**
 ![image of my macropad](renders/Render3.png)
 ![image of my macropad](renders/other/IMG2.png)
-![image of my macropad](renders/other/IMG6.png)
+![image of my macropad](renders/other/IMG3.png)
 
 The case has a Lip where the PCB can snap in:
-![image of my macropad](renders/other/IMG7.png)
+![image of my macropad](renders/other/IMG6.png)
