@@ -2,7 +2,7 @@
 
 ![image of my macropad](renders/Render2.png)
 
-This is my adaptation of the blueprint hackpad by hackclub. I spent around 12 Hours on it, and used KiCad and Fusion360 for it's design
+This is my adaptation of the blueprint hackpad by hackclub. I spent around 10 Hours on it, and used KiCad and Fusion360 for it's design
 
 **Features**
 - 9 Cherry MX Mechanical Switches in a 3x3 Arrangement 
